@@ -1,6 +1,6 @@
 # ![WinMenuToggler](https://img.icons8.com/color/48/windows-10.png) WinMenuToggler
 
-[![Release](https://img.shields.io/github/v/release/yourusername/WinMenuToggler)](https://github.com/yourusername/WinMenuToggler/releases)
+[![Release](https://img.shields.io/github/v/release/rajeshc-git/WinMenuToggler)](https://github.com/yourusername/WinMenuToggler/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/rajeshc-git/WinMenuToggler)
 
