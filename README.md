@@ -2,7 +2,7 @@
 
 [![Release](https://img.shields.io/github/v/release/yourusername/WinMenuToggler)](https://github.com/yourusername/WinMenuToggler/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/yourusername/WinMenuToggler)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/rajeshc-git/WinMenuToggler)
 
 **WinMenuToggler** is a lightweight tool that allows you to **switch the Windows 11 right-click context menu to the classic Windows 10 style**, and toggle back anytime.  
 
