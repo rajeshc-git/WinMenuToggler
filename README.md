@@ -40,8 +40,9 @@ Perfect for users who prefer the **familiar Windows 10 menu** without losing the
 
 *Before / After Windows 10 context menu:*  
 
-![Win11 Menu](https://via.placeholder.com/400x300?text=Win11+Menu)  
-![Win10 Menu](https://via.placeholder.com/400x300?text=Win10+Menu)  
+![Windows 11 Menu](https://placehold.co/400x300?text=Win11+Menu&bg=0078D7&fg=ffffff)
+![Windows 10 Menu](https://placehold.co/400x300?text=Win10+Menu&bg=00ADEF&fg=ffffff)
+
 
 ---
 
