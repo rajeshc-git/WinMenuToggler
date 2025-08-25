@@ -21,7 +21,7 @@ Perfect for users who prefer the **familiar Windows 10 menu** without losing the
 
 ## Installation
 
-1. Download the latest release from [here](https://github.com/yourusername/WinMenuToggler/releases).  
+1. Download the latest release from [here](https://github.com/rajeshc-git/WinMenuToggler/releases).  
 2. Run the executable or `.reg` file as **administrator**.  
 3. Follow the on-screen instructions to toggle your right-click menu.  
 
